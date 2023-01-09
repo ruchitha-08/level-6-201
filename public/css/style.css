@@ -1,0 +1,7 @@
+body {
+  background-color: pink;
+  font-family: "Times New Roman", "Gill Sans MT",  "Trebuchet MS", sans-serif;
+}
+.todoItem:hover .trashIcone {
+  display: block;
+}
